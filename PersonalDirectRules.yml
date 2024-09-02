@@ -1,0 +1,7 @@
+payload:
+#  - 'example.com'
+
+
+
+- DOMAIN-SUFFIX,cqupt.edu.cn,DIRECT
+#- DOMAIN-SUFFIX,noip.com
