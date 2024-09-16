@@ -15,8 +15,7 @@ payload:
 # RULE-SET 规则集
 # SCRIPT 脚本
 # MATCH 全匹配
-
-
+  - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,txyz.ai
