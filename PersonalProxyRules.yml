@@ -1,5 +1,5 @@
 payload:  
-  - '+,v2rayssr.com'
-  - '+,clash.dev'
-  - '+,ipleak.net'
-  - '+,bulianglin.com'
+  - DOMAIN-SUFFIX,v2rayssr.com
+  - DOMAIN-SUFFIX,clash.dev
+  - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,bulianglin.com
