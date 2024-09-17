@@ -9,7 +9,7 @@ payload:
   # - DOMAIN-SUFFIX,scholar.google.com
 
   # OpenAi
-  - DOMAIN-KEWORD,openai
+  - DOMAIN-KEYWORD,openai
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,challenges.cloudflare.com
