@@ -1,29 +1,29 @@
 payload:
-  - '+,chat.openai.com'
-  - '+,chatgpt.com'
-  - '+,openai.com'
-  - '+,copilot.microsoft.com'
-  - '+,txyz.ai'
-  - '+,gptstore.ai'
-  - '+,bing.com'
-  # - '+,scholar.google.com'
+  - DOMIAN-SUFFIX,chat.openai.com
+  - DOMIAN-SUFFIX,chatgpt.com
+  - DOMIAN-SUFFIX,openai.com
+  - DOMIAN-SUFFIX,copilot.microsoft.com
+  - DOMIAN-SUFFIX,txyz.ai
+  - DOMIAN-SUFFIX,gptstore.ai
+  - DOMIAN-SUFFIX,bing.com
+  # - DOMIAN-SUFFIX,scholar.google.com
 
   # OpenAi
-  - 'openai'
-  - '+,gemini.google.com'
-  - '+,auth0.com'
-  - '+,challenges.cloudflare.com'
-  - '+,chatgpt.com'
-  - '+,client-api.arkoselabs.com'
-  - '+,events.statsigapi.net'
-  - '+,featuregates.org'
-  - '+,identrust.com'
-  - '+,intercom.io'
-  - '+,intercomcdn.com'
-  - '+,oaistatic.com'
-  - '+,oaiusercontent.com'
-  - '+,openai.com'
-  - '+,openaiapi-site.azureedge.net'
-  - '+,sentry.io'
-  - '+,stripe.com'
+  - DOMAIN-KEWORD,openai
+  - DOMIAN-SUFFIX,gemini.google.com
+  - DOMIAN-SUFFIX,auth0.com
+  - DOMIAN-SUFFIX,challenges.cloudflare.com
+  - DOMIAN-SUFFIX,chatgpt.com
+  - DOMIAN-SUFFIX,client-api.arkoselabs.com
+  - DOMIAN-SUFFIX,events.statsigapi.net
+  - DOMIAN-SUFFIX,featuregates.org
+  - DOMIAN-SUFFIX,identrust.com
+  - DOMIAN-SUFFIX,intercom.io
+  - DOMIAN-SUFFIX,intercomcdn.com
+  - DOMIAN-SUFFIX,oaistatic.com
+  - DOMIAN-SUFFIX,oaiusercontent.com
+  - DOMIAN-SUFFIX,openai.com
+  - DOMIAN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMIAN-SUFFIX,sentry.io
+  - DOMIAN-SUFFIX,stripe.com
 
