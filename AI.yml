@@ -1,4 +1,5 @@
 payload:
+  - '+,chat.openai.com'
   - '+,chatgpt.com'
   - '+,openai.com'
   - '+,copilot.microsoft.com'
