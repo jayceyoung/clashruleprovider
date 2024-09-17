@@ -1,3 +1,3 @@
 payload:
-  - '+,cqupt.edu.cn'
-  # - '+,noip.com'
+  - DOMAIN-SUFFIX,cqupt.edu.cn
+  # - DOMAIN-SUFFIX,noip.com
