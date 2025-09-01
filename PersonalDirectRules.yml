@@ -2,3 +2,6 @@ payload:
   - DOMAIN-SUFFIX,cqupt.edu.cn
   - DOMAIN-SUFFIX,shenlongip.com
   # - DOMAIN-SUFFIX,noip.com
+  - DOMAIN-SUFFIX,test.ustc.edu.cn
+  - DOMAIN-SUFFIX,test.nju.edu.cn
+
